@@ -172,6 +172,7 @@ happy# Contributors
 - [Anand Shende](https://github.com/anandshende)
 - [WHA](https://github.com/wynehtetaung)
 - [Captain] (https://github.com/CaptainPatel)
+- [Manny!] 
 - [Ishita](https://github.com/elekish)
 - [Michael](https://github.com/LucidWinter)
 - [Phillip](gttps://github.com/PhillipSom)
